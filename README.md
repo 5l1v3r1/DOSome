@@ -1,6 +1,6 @@
 DOSome
 ======
 
-A Neat Denial of Service Tool with some additional benefits...
+A Neat Denial of Service Tool, written in Ruby including Ronin & using aspects of Sca.py, with some additional benefits...
 
-Before you ask, no, I have no idea how this is going to work yet.
+Slowly I am getting a hold of how this is going to work. There is going to be several different modules including reconnaisance, request, & remote modules.
